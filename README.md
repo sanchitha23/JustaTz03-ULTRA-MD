@@ -147,7 +147,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
   5. #### TUTORIAL FOR PANEL
   
   <br>
-   <p align="center"><a href="https://youtu.be/nE4v4KWBfAU"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/nE4v4KWBfAU" width="220" height="38.45"/><br>
+   <p align="center"><a href="https://youtu.be/I8LSZPCCe4k6kwIM"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/nE4v4KWBfAU" width="220" height="38.45"/><br>
   
 ----
 
